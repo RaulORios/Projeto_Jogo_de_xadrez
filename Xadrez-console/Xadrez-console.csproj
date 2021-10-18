@@ -6,4 +6,10 @@
     <RootNamespace>Xadrez_console</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>System</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
